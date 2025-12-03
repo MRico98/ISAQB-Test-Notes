@@ -1,4 +1,4 @@
-#Notes from the course of ISAQB in Top Developer Academy
+# Notes from the course of ISAQB in Top Developer Academy
 
 Passed in Friday 28 2025 :)
 
